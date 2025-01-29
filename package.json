@@ -1,0 +1,11 @@
+{
+  "name": "neutralinojs-templates",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "description": "Adds functionality to manage and reuse locally saved templates in Neutralinojs CLI, eliminating the need to repeatedly download or clone remote templates."
+}

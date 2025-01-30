@@ -13,7 +13,7 @@ npm install -g @neutralinojs/neu
 ### 2. Add the Templates Plugin
 
 ```
-neu plugins --add @neutralinojs/templates
+neu plugins --add neutralinojs-templates
 ```
 ## Usage
 
